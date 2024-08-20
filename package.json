@@ -1,0 +1,16 @@
+{
+  "name": "clonador-sites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node baixarPaginas.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "website-scraper": "^5.3.1"
+  }
+}
